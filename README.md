@@ -4,6 +4,8 @@
 
 Super Space Invaders is a modification of the traditional Space Invaders game.
 
+[Javadocs](https://ssi-javadocs.s3.amazonaws.com/index.html)
+
 ## Gameplay:
 
 Two players play the game at once. The game is played as follows:
